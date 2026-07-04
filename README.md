@@ -50,4 +50,4 @@ Here is the formatted LaTeX string ready for the Desmos graphing calculator:
 ## 5. Visual Validation
 Plotting the predicted mathematical curve against the raw scatter plot data visually confirms the optimization. The red predicted curve perfectly overlaps the blue target data points.
 
-![Final Predicted Curve](results/plot.png)
+![Final Predicted Curve](result/plot.png)
