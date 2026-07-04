@@ -40,14 +40,9 @@ Estimated M     : 0.030001
 Estimated X     : 54.9968
 ```
 
-## 4. Final Equation (Desmos Format)
-Based on the optimization results, `Theta` was converted to radians (0.5236), and the final values were plugged into the base equation. 
 
-Here is the formatted LaTeX string ready for the Desmos graphing calculator:
 
-`\left(t*\cos(0.5236)-e^{0.0300\left|t\right|}\cdot\sin(0.3t)\sin(0.5236)+54.9968,42+t*\sin(0.5236)+e^{0.0300\left|t\right|}\cdot\sin(0.3t)\cos(0.5236)\right)`
-
-## 5. Visual Validation
+## 4. Visual Validation
 Plotting the predicted mathematical curve against the raw scatter plot data visually confirms the optimization. The red predicted curve perfectly overlaps the blue target data points.
 
 ![Final Predicted Curve](result/plot.png)
